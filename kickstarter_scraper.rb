@@ -17,7 +17,7 @@ def create_project_hash
     }
   end
 
-  project
+  projects
 end
 
 #projects: kickstarter.css("li.project.grid_4").first
